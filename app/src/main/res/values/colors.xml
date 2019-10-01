@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#9F9EA3</color>
+
+
+    <color name="colorSurface">#FFFF</color>
+    <color name="colorTint">#FFFF</color>
+    <color name="colorAccentLogin">#FFFF</color>
+    <color name="colorTxtBtn">#FFFF</color>
+    <color name="colorPrimaryDarkLogin">#FFFF</color>
+    <color name="colorBackgroundButton">#40C4FF</color>
+    <color name="colorProgressBar">#40C4FF</color>
+
+
+</resources>
